@@ -1,7 +1,12 @@
 # LLaMa for Developers
 This is the repository for the LinkedIn Learning course `LLaMa for Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+In this course, learn how to customize open-source AI models with one of the most common open-source models, LLaMa (Large Language Model Meta AI). Instructor Denys Linkov shares a hands-on approach to working with LLaMa, explaining LLaMa architecture, prompting, deploying, and training models. He uses a series of Python notebooks to show you how to adapt LLaMa to your use cases and employ it in an enterprise or startup environment.
+
 _See the readme file in the main branch for updated instructions and information._
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +25,18 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
 
+Denys Linkov
+
+ML Lead at Voiceflow
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/denys-linkov?u=104).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/llama-for-developers
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFwVgF6CtOdOA/learning-public-crop_675_1200/0/1712958544332?e=2147483647&v=beta&t=bEG8chTToNv8dVlML7v8WXV-8yKBCKlahD19n3J223g
 
